@@ -13,8 +13,12 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 7vw;
   text-shadow: 3px 0 #da0463;
+}
+
+p {
+  font-size: 2.1vw;
 }
 
 footer {
@@ -22,12 +26,12 @@ footer {
   margin-top: 40px;
 }
 
-.w {
+.y {
   background-image: url("images/crash.png");
   background-size: cover;
 }
 
-.a {
+.x {
   background-image: url("images/kick.png");
   background-size: cover;
 }
@@ -37,17 +41,17 @@ footer {
   background-size: cover;
 }
 
-.d {
+.g {
   background-image: url("images/tom1.png");
   background-size: cover;
 }
 
-.j {
+.h {
   background-image: url("images/tom2.png");
   background-size: cover;
 }
 
-.k {
+.j {
   background-image: url("images/tom3.png");
   background-size: cover;
 }
@@ -59,6 +63,24 @@ footer {
 
 .set {
   margin: 10% auto;
+}
+
+.set2 {
+
+}
+
+#bateria {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+}
+
+#prato1 {
+  position: relative;
+}
+
+#prato2 {
+  position: relative;
 }
 
 .pressed {
